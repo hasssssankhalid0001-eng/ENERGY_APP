@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 streamlit
 scikit-learn
 pandas
 numpy
 joblib
+=======
+streamlit
+scikit-learn
+pandas
+numpy
+joblib
+>>>>>>> 7f5f9c8 (Added model file and updated gitignore)
